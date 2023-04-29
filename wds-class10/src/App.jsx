@@ -12,7 +12,7 @@ function App() {
  
   return (
     <>
-      <TodoListItem isComplete={True}>
+      <TodoListItem isComplete={true}>
         Todo item 1
       </TodoListItem>
 
